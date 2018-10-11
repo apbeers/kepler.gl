@@ -383,3 +383,4 @@ config: {
 }
 ```
 the latter will be applied and the map view will be moved the defined coordinates.
+
